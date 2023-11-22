@@ -1,12 +1,12 @@
 [project]
-name = "hello-package"
+name = "hellopkg"
 version = "0.0.1"
 description = "A small example package"
 readme = "README.md"
 requires-python = ">=3.10"
 license = {file = "LICENSE"}
 authors = [
-    { name="Example Author", email="not available" }
+    { name="Example Author", email="author@example.com" }
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
