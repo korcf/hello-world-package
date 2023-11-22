@@ -1,6 +1,7 @@
 # Example Package
 
 This is a simple example package.
+View the package at [TestPyPi](https://test.pypi.org/project/hwpkg/).
 
 ## Installation
 
