@@ -10,10 +10,10 @@ $ python3 -m venv .ve
 $ source .ve/bin/activate
 ```
 
-### Install from the TestPyPI index
+### Install from TestPyPI
 
 ```
-$ pip install --index-url https://test.pypi.org/simple/ --no-deps hwpkg
+$ pip install -i https://test.pypi.org/simple/ hwpkg
 ```
 
 ### Install from GitHub
