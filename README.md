@@ -50,3 +50,16 @@ or from the source distribution
 ```
 $ pip install dist/hwpkg-0.0.1.tar.gz
 ```
+
+## Run
+
+Run python in the `.ve` virtual environment
+```
+$ python
+```
+and import the package
+```
+>>> from hwpkg import hello
+>>> hello.hello_world()
+Hello, World!
+```
