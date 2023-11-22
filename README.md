@@ -1,8 +1,14 @@
 # Example Package
 
-This is a simple example package.
+This is a simple (hello world) example package.
 
 ## Installation
+
+Create a virtual environment
+```
+$ python3 -m venv .ve
+$ source .ve/bin/activate
+```
 
 ### Install from the TestPyPI index
 
