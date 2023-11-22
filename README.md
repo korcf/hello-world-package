@@ -1,6 +1,6 @@
 # Example Package
 
-This is a simple (hello world) example package.
+This is a simple example package.
 
 ## Installation
 
