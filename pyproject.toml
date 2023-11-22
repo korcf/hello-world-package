@@ -1,5 +1,5 @@
 [project]
-name = "hellopkg"
+name = "hwpkg"
 version = "0.0.1"
 description = "A small example package"
 readme = "README.md"
