@@ -1,7 +1,9 @@
 # Example Package
 
-This is a simple example package.
-View the package at [TestPyPi](https://test.pypi.org/project/hwpkg/).
+This is a simple example package. View the package at
+[GitHub](https://github.com/korcf/hello-world-package)
+and
+[TestPyPi](https://test.pypi.org/project/hwpkg/).
 
 ## Installation
 
