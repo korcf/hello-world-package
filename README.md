@@ -1,4 +1,4 @@
-# Example Package
+# Package Example
 
 This is a simple example package. View the package at
 [GitHub](https://github.com/korcf/hello-world-package)
