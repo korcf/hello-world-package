@@ -13,19 +13,21 @@ $ python3 -m venv .ve
 $ source .ve/bin/activate
 ```
 
-### Install from TestPyPI
+### Options
+
+#### Install from TestPyPI
 
 ```
 $ pip install -i https://test.pypi.org/simple/ hwpkg
 ```
 
-### Install from GitHub
+#### Install from GitHub
 
 ```
 $ pip install git+https://github.com/korcf/hello-world-package.git
 ```
 
-### Install from a local source tree
+#### Install from a local source tree
 
 ```
 $ git clone git@github.com:korcf/hello-world-package.git
@@ -34,7 +36,7 @@ $ git clone git@github.com:korcf/hello-world-package.git
 $ pip install hello-world-package/
 ```
 
-### Install from local distribution archives
+#### Install from local distribution archives
 
 ```
 $ git clone git@github.com:korcf/hello-world-package.git
